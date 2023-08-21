@@ -7,3 +7,6 @@ Key model attributes:
 
 Other things that will need to be defined: 
 1. Growth
+2. Herbivore species reproduction
+3. Food resource replication
+4. Searching behavior
