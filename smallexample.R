@@ -1,5 +1,7 @@
 setwd("/Users/jrw0107/Desktop/") #Google Drive/My Drive/teaching/WILD 7400 ABMs/
 
+#testing github
+
 #Model question: How does transmission rate influence proportion of people infected?
 
 #set up plot
