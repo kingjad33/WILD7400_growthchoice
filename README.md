@@ -10,3 +10,6 @@ Other things that will need to be defined:
 2. Herbivore species reproduction
 3. Food resource replication
 4. Searching behavior
+
+
+Edit with text editor like Text or BBEdit.
